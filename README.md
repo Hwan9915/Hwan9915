@@ -17,7 +17,7 @@
 
 ## Tech Stack
 
-### ⌨️ Language ⌨️
+#### ⌨️ Language ⌨️
 <span>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   </a>
@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-### IDEs
+#### IDEs
 
 <span>
     <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
@@ -44,9 +44,9 @@
   </a>
 </span>
 
-<br/>
+<br/><br/>
 
-## PS
+## Problem Solve
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cubic0915)](https://solved.ac/cubic0915/)
 
