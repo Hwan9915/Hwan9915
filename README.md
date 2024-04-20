@@ -29,19 +29,19 @@
 
 <br/><br/>
 
-#### IDEs
+#### Development Tools
 
 <span>
     <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
-  </a>
 </span>
 <span>
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  </a>
 </span>
 <span>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  </a>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </span>
 
 <br/><br/>
