@@ -1,10 +1,6 @@
 <div align=center>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cubic0915)](https://solved.ac/cubic0915/)
-
-
-
-### About me
+## About me
 
 <span>
   <a href="https://giliit.tistory.com/">
@@ -19,10 +15,9 @@
 
 <br/><br/><br/>
 
-### Tech Stack
----
+## Tech Stack
 
-#### ⌨️ Language ⌨️
+### ⌨️ Language ⌨️
 <span>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   </a>
@@ -49,12 +44,17 @@
   </a>
 </span>
 
+<br/>
 
-<br/><br/><br/><br/><br/>
+## PS
 
-### 💻 Recent Post 💻
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cubic0915)](https://solved.ac/cubic0915/)
 
----
+<br/><br/><br/>
+
+## 💻 Recent Post 💻
+
+
 #### Velog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=giliit)](https://velog.io/@giliit)
