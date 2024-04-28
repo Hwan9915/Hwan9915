@@ -1,6 +1,8 @@
+
+
 <div align=center>
 
-## About me
+## My Blog
 
 <span>
   <a href="https://giliit.tistory.com/">
@@ -46,9 +48,14 @@
 
 <br/><br/>
 
-## Problem Solve
+## About me
+<span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan9915&langs_count=10&layout=compact&theme=dracula" style="width:50%;" >
+</span>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cubic0915)](https://solved.ac/cubic0915/)
+<span>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cubic0915"style="width:50%;" >
+</span>
 
 <br/><br/><br/>
 
