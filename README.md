@@ -97,11 +97,11 @@
 
 ## About me
 <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan9915&langs_count=10&layout=compact&theme=dracula" style="width:50%;" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwan9915&langs_count=10&layout=compact&theme=dracula" style="max-width:70%;" >
 </span>
 
 <span>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cubic0915"style="width:50%;" >
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cubic0915" style="max-width:21%;" >
 </span>
 
 <br/><br/><br/>
