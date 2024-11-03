@@ -57,13 +57,13 @@
 
 <br/><br/><br/>
 
-## 💻 Recent Post 💻
+## 🚩 Competition  🚩
 
 
 #### Velog
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=giliit)](https://velog.io/@giliit)
+- 2024 인천대학교 컴퓨터공학부 졸업작품발표회 : 장려상
+- 2024 INU 코드페스티벌 : 은상
+- 2024 럭키톤(Lucky-thon) : 1st
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwan9915&count_bg=%23827ED3&title_bg=%23555555&icon=&icon_color=%23EF8F8F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
