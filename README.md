@@ -65,6 +65,6 @@
 
 **2024 럭키톤(Lucky-thon) : 1st**
 
-**[2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>](https://dacon.io/competitions/official/236487/overview/description) : 9th**
+**[2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>](https://dacon.io/competitions/official/236487/overview/description) : 특별상**
 
 </div>
