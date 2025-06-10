@@ -63,7 +63,7 @@
 
 **2024 INU 코드페스티벌 : 은상**
 
-**2024 럭키톤(Lucky-thon) : 1st**
+**[2024 럭키톤(Lucky-thon)](https://inu.ac.kr/inu/13580/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaW51JTJGMjU5NCUyRjM5NzU3NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2c3JjaENvbHVtbiUzRHNqJTI2c3JjaFdyZCUzRCVFQiU5RiVBRCVFRCU4MiVBNCUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg%3D%3D) : 1st**
 
 **[2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>](https://dacon.io/competitions/official/236487/overview/description) : 특별상**
 
