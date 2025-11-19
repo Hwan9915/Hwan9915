@@ -67,4 +67,7 @@
 
 **[2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>](https://dacon.io/competitions/official/236487/overview/description) : 특별상**
 
+**2025 DATA·AI 분석 경진대회(지속가능한 수자원을 위한 지하수 함양 특성 분석 및 AI 기반 지하수위 변동 예측) : 우수상**
+
+
 </div>
